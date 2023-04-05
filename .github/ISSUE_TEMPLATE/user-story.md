@@ -1,8 +1,8 @@
 ---
 name: User Story
 about: Beschreibe dein gewünschstes Feature bzw. Verbesserungsvorschlag
-title: "[User Story]"
-labels: ''
+title: "[User Story] - "
+labels: user story
 assignees: ''
 
 ---
